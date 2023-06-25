@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "6605735f10d4941a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ccbc2c52577572d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c01569fd887d4e0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SISTEMAS OPERATIVOS/EXAMEN 3/SEMANA 9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bafc1a6260221b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROYECTO FINAL/NOTAS PROPIAS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d06fd24f50f265f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HEAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d51d2fe707a335d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TERRENOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7beaecd5e456945",
+    "type": "split",
+    "children": [
+      {
+        "id": "3558f7e38824b816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bed60f3419e1dfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2db2858fff6d9237",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9562a54d3db63709",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c312ff3dd1abeb59",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd081a687c63be01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "281673be95fadb1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TERRENOS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "877101bd6d48444a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TERRENOS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ae3e9baa1cfd0b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94fa240b059cfa26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TERRENOS.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d51d2fe707a335d3",
+  "lastOpenFiles": [
+    "SISTEMAS OPERATIVOS/EXAMEN 3/SEMANA 9.md",
+    "TERRENOS.md",
+    "SEGURIDAD EN MAQUINARIA/MODULO 1.md",
+    "SEGURIDAD EN MAQUINARIA/MODULO 6.md",
+    "PROYECTO FINAL/NOTAS PROPIAS.md",
+    "HEAP.md",
+    "HEAP",
+    "PROYECTO FINAL",
+    "MEJORA CONTINUA/HERRAMIENTAS DE CALIDAD III.md",
+    "SISTEMAS OPERATIVOS/EXAMEN 3/ORIGENES DE LINUX.md",
+    "MEJORA CONTINUA",
+    "IMAGENES/Pasted image 20230605131527.png",
+    "2023-06-05.md",
+    "IMAGENES/Pasted image 20230605130857.png",
+    "IMAGENES/Pasted image 20230605131232.png",
+    "IMAGENES/Pasted image 20230605131055.png",
+    "IMAGENES/Pasted image 20230605002523.png",
+    "SISTEMAS OPERATIVOS/EXAMEN 3",
+    "SISTEMAS OPERATIVOS",
+    "IMAGENES/Pasted image 20230605002500.png",
+    "IMAGENES/Pasted image 20230604234641.png",
+    "IMAGENES/Pasted image 20230604114605.png",
+    "IMAGENES/Pasted image 20230604114239.png",
+    "IMAGENES/Pasted image 20230604114054.png",
+    "Untitled 1.canvas",
+    "IMAGENES",
+    "Untitled.canvas",
+    "SEGUNDA NOTA.md",
+    "PRIMERA NOTA.md",
+    "SEGURIDAD EN MAQUINARIA"
+  ]
+}
